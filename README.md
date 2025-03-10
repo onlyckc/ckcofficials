@@ -1,5 +1,5 @@
 
-![MasterHead](https://forum.donanimarsivi.com/attachments/big-ben-wallpaper-03-1920x1080-jpg.89567/](https://i.hizliresim.com/4q093u1.png)
+![MasterHead](https://i.hizliresim.com/4q093u1.png)
 
 <h1 align="center">Hi 👋, I'm ckc</h1>
 <h3 align="center">N/A</h3>
