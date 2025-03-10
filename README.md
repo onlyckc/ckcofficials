@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.hizliresim.com/4q093u1.png)
+![MasterHead](https://www.tidyverse.org/blog/2018/10/rlang-0-3-0/rlang-0-3-0-wd.jpg)
 
 <h1 align="center">Hi 👋, I'm ckc</h1>
 <h3 align="center">N/A</h3>
