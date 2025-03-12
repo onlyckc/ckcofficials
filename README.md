@@ -1,8 +1,9 @@
 
-![MasterHead](https://i.hizliresim.com/l33exg8.png)
-
+![MasterHead](https://i.imgur.com/GfDA8Jf.png)
 <h1 align="center">Hi 👋, I'm ckc</h1>
-<h3 align="center">N/A</h3>
+
+  <h3 align="center"> ~ Turkish Student ~ </h3>
+
 
 - 🌱 I’m currently learning: **JavaScript & Python**
 
